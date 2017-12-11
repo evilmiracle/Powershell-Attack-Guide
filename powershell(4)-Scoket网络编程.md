@@ -1,7 +1,7 @@
 # Powershell(4)-Socket网络编程
 > 这一小节我们介绍Powershell中的Socket编程，网络编程是所有语言中绕不开的核心点，下面我们通过对代码的分析来让大家对PS中的Socket有一个初步的了解。
 
-## Scoket-Tcp编程
+## Socket-Tcp编程
 
 开始之前我们先想想为什么要学习socket编程，那么最直观的是端口扫描，那么还有可能是反弹shell之类的应用。进行Socket编程只需要调用.Net框架即可，这里先使用TCP来示例:
 
